@@ -15,17 +15,29 @@
 
   <body>
 
-    <header><h1>Headings and Paragraphs</h1></header>
-    <nav><h1>Navigation</h1></nav>
+    <div><header><h1>Headings and Paragraphs</h1></header>
+    <div><header><h1>Headings and Paragraphs</h1></header>
+    <nav><h1>Navigation</h2></nav>
     <aside><p>This is the aside space.</p></aside>
     <section>
       <h3>Section 1</h3>
-      <article>
+      <article><p>This article 1 in section 1 in p-tag.
         <p>This is article 1 in section 1.</p>
       </article>
       <article>
         <p>This is article 2 in section 1.</p>
       </article>
+      <h1>H1 in an section</h1>
+      <h2>H2 in an section</h2>
+      <h3>H3 in an section</h3>
+      <h4>H4 in an section</h4>
+      <h5>H5 in an section</h5>
+
+
+
+
+
+
     </section>
     <section>
       <h3>Section 2</h3>
