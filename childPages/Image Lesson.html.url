@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>Images</title>
-    <meta name="author" content="Mark Mercer">
+    <meta name="author" content="Emerson Kouakou">
     <meta name="description" content="Learning HTML"> <!--Webpage Description -->
     <meta name="keywords" content="Learning, Tag, HTML, Layout">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,12 +41,12 @@
 
   <footer>
     <!-- Date Accessed: 20210916-->
-    <blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583">
-      <p><em>Getting information off the Internet is like taking a drink from a firehose.</em></p>
+    <blockquote cite="https://blog.hubspot.com/sales/famous-quotes">
+      <p><em>Do not go where the path may lead, go instead where there is no path and leave a trail.</em></p>
       <p>
         <strong>
-          <a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">
-            Mitch Kapor
+          <a href="https://blog.hubspot.com/sales/famous-quotes" target="_blank">
+            Ralph Waldo Emerson
           </a>
         </strong>
       </p>

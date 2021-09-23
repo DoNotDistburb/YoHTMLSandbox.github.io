@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>H & P</title>
-    <meta name="author" content="Mark Mercer">
+    <meta name="author" content="Emerson Kouakou">
     <meta name="description" content="Learning HTML"> <!--Webpage Description -->
     <meta name="keywords" content="Learning, Tag, HTML, Layout">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,41 +24,30 @@
       <article><p>This article 1 in section 1 in p-tag.
         <p>This is article 1 in section 1.</p>
       </article>
+      <h3>Section 2 in an H3</h3>
       <article>
-        <p>This is article 2 in section 1.</p>
-      </article>
       <h1>H1 in an section</h1>
       <h2>H2 in an section</h2>
       <h3>H3 in an section</h3>
       <h4>H4 in an section</h4>
       <h5>H5 in an section</h5>
-
-
-
-
-
-
-    </section>
+      <h6>H6 in an article</h6>
+      <h7>H7 in an article</h7>
+      <h8>H8 in an article</8>
+      <p>This is article 1 in section 2.</p>
+      </article>
     <section>
-      <h3>Section 2</h3>
-      <article>
-        <p>This is article 1 in section 2.</p>
-      </article>
-      <article>
-        <p>This is article 2 in section 2.</p>
-      </article>
-    </section>
 
   </body>
 
   <footer>
     <!-- Date Accessed: 20210916-->
-    <blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583">
-      <p><em>Getting information off the Internet is like taking a drink from a firehose.</em></p>
+    <blockquote cite="https://blog.hubspot.com/sales/famous-quotes">
+      <p><em>Do not go where the path may lead, go instead where there is no path and leave a trail.</em></p>
       <p>
         <strong>
-          <a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">
-            Mitch Kapor
+          <a href="https://blog.hubspot.com/sales/famous-quotes" target="_blank">
+            Ralph Waldo Emerson
           </a>
         </strong>
       </p>

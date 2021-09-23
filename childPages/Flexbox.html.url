@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>Flexbox</title>
-    <meta name="author" content="Mark Mercer">
+    <meta name="author" content="Emerson Kouakou">
     <meta name="description" content="Learning HTML"> <!--Webpage Description -->
     <meta name="keywords" content="Learning, Tag, HTML, Layout">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,4 +53,4 @@
     <p>&copy Emerson Kouakou, powered by DoNotDisturb in GitHub</p>
   </footer>
 
-</html
+</html>
